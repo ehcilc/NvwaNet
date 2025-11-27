@@ -15,7 +15,7 @@ venv/
 .idea/
 *.DS_Store
 
-# Bioinformatics Data (防止上传大文件)
+# Bioinformatics data
 *.fastq
 *.fq
 *.bam
