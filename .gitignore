@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.env
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+
+# IDE
+.vscode/
+.idea/
+*.DS_Store
+
+# Bioinformatics Data (防止上传大文件)
+*.fastq
+*.fq
+*.bam
+*.sam
+*.vcf
+*.h5ad
+*.rds
+*.csv.gz
+data/
+output/
+
+# ML
+models/
+runs/
+
